@@ -7,3 +7,8 @@ Adding another line to show change history.
 ## Subheader here
 
 Practicing remote commits through SSH.
+
+
+## Local Development
+
+1. Open index.html in browser.
